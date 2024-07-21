@@ -4,9 +4,11 @@
 - 논문 리딩 후 모델 부분 코드 구현 후 업로드
 
 ## 📃 Paper List
-||model|paper|date|code|
-|:--:|:--:|:-----:|:---:|:---:|
-|01|RNN|[Recurrent neural network based language model](https://arxiv.org/pdf/1409.3215.pdf)|2024.07.14|[code]()|  
-|02|LSTM|[Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.14|[code]( )|
+||model|paper|date|code|note|
+|:--:|:--:|:-----:|:---:|:---:|:---:|
+|01|RNN|[Recurrent neural network based language model](https://arxiv.org/pdf/1409.3215.pdf)|2024.07.14|[code]()|[note]()|  
+|02|LSTM|[Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.14|[code]( )|[note]( )|
+|03|GRU|[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078)|2024.07.21|[code]( )|[note]( )|
+|04|Seq2seq|[Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.21|[code]( )|[note]( )|
 
 
