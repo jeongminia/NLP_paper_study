@@ -5,14 +5,8 @@
 <aside>
 💡 **GRU(Gated Recurrent Unit)**
 LSTM의 장기 의존성 문제에 대한 해결책을 유지하며, Reset gate, Update gate를 이용해 계산을 효율적으로 진행하며 LSTM보다 단순한 구조를 갖고 있으며, cell을 사용
-
 </aside>
 
-- 참고
-    
-                 : 이해되지 않는 부분
-    
-                 : 중요 부분
     
 - 용어
     
@@ -286,29 +280,3 @@ Figure 1: An illustration of the proposed RNN Encoder–Decoder
 ## 🔎 궁금증 ..
 
 ---
-
-## 🎹 코드 리뷰
-
----
-
-[Google Colab](https://colab.research.google.com/drive/1nLrEHRTv1yGIcSrpZSSZWq9N-wE75f6x?usp=sharing)
-
- * 에러
-
-[Google Colab](https://colab.research.google.com/drive/1uB_Jwh2ZF5r0fXdT9bs7_PTQBkvm3anP?usp=sharing)
-
-## ➕ 참고
-
----
-
-[10.2. Gated Recurrent Units (GRU) — Dive into Deep Learning 1.0.3 documentation](https://d2l.ai/chapter_recurrent-modern/gru.html)
-
-- tistory
-    
-    [[논문 읽기] PyTorch 구현 코드로 살펴보는 GRU(2014), Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation](https://deep-learning-study.tistory.com/691)
-    
-    [07-3. 순환 신경망 LSTM, GRU - (3)](https://excelsior-cjh.tistory.com/185)
-    
-- Youtube
-    
-    [[Paper Review] Gated RNN](https://www.youtube.com/watch?v=5Ar1aN9gceg)
