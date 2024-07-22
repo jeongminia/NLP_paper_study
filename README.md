@@ -1,7 +1,7 @@
 # NLP_paper_study
 - 일정 : 2024.07.08 ~ 2024.08.25
 - 매주 일요일 오전 10시
-- 논문 리딩 후 모델 부분 코드 구현 후 업로드
+- 논문 리딩 후 해당 모델 부분 코드 리뷰 후 업로드
 
 ## 📃 Paper List
 ||model|paper|date|code|note|
