@@ -14,5 +14,5 @@
 |06|Transformer|[Attention is All you need](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.28|[code]( )|[note]( )|
 
 
-## 🔑 Architecture
+### 🔑 Architecture
 - [RNN 기반 모델 비교]()
