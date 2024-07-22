@@ -1,6 +1,6 @@
 # GRU
 
----
+
 
 <aside>
 💡 **GRU(Gated Recurrent Unit)**
@@ -26,11 +26,11 @@ LSTM의 장기 의존성 문제에 대한 해결책을 유지하며, Reset gate,
     👐🏻 **WP** Word Penalty 
     
 
----
+
 
 ## 0. Abstract
 
----
+
 
 > **Learning Phrase Representations using `RNN Encoder-Decoder` for Statistical Machine Translation**
 > 
@@ -54,7 +54,7 @@ LSTM의 장기 의존성 문제에 대한 해결책을 유지하며, Reset gate,
 
 ## 1. Introduction
 
----
+
 
 ### **1.1 등장배경**
 
@@ -83,7 +83,7 @@ LSTM의 장기 의존성 문제에 대한 해결책을 유지하며, Reset gate,
 
 ## 2. RNN Encoder–Decoder
 
----
+
 
 **단계 요약**
 
@@ -138,7 +138,7 @@ Figure 1: An illustration of the proposed RNN Encoder–Decoder
 
 ## 3.  Statistical Machine Translation
 
----
+
 
 - **SMT 시스템 목표**: 원문 문장 e에 대해 가장 적절한 번역문 f를 찾아 $p(f∣e)$를 최대화
 - **로그 선형 모델**: 추가적인 특징과 가중치를 사용하여 $log_p(f∣e)$를 모델링
@@ -161,7 +161,7 @@ Figure 1: An illustration of the proposed RNN Encoder–Decoder
 
 ## 4.  Experiments
 
----
+
 
 <aside>
 💡 **RNN Encoder-Decoder** 🆚 **CSLM (Context-Sensitive Language Model)
@@ -249,15 +249,14 @@ Figure 1: An illustration of the proposed RNN Encoder–Decoder
     - 2차원 임베딩 시각화 결과, **의미적으로 유사한 단어들이 서로 클러스터링**됨.
     - 이 과정은 Barnes-Hut-SNE 기법을 사용하여 수행됨.
     
-    ![스크린샷 2024-07-21 오전 8.47.58.png](GRU%200ec243d23e0f436596d968edfcc8b35e/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-07-21_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_8.47.58.png)
-    
+
 
 2️⃣ **구문 표현**
 
 - **구문 벡터**: RNN Encoder–Decoder는 구문을 1000차원 벡터로 연속 공간에서 표현함.
 - **시각화**: 4단어 이상의 구문을 Barnes-Hut-SNE로 시각화한 결과, RNN Encoder–Decoder가 **구문과 문법적 구조를 잘 포착**하고 있음을 확인함.
     
-    ![스크린샷 2024-07-21 오전 8.51.06.png](GRU%200ec243d23e0f436596d968edfcc8b35e/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-07-21_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_8.51.06.png)
+    
     
     - 하단 왼쪽 **시간 관련 구문**
     - 하단 오른쪽 **의미론적 유사성**
@@ -265,7 +264,7 @@ Figure 1: An illustration of the proposed RNN Encoder–Decoder
 
 ## 5. Conclusion
 
----
+
 
 1. RNN 인코더-디코더
     - 임의의 길이의 sequence를 다른 임의의 길이의 sequence로 매핑하는 학습 진행
