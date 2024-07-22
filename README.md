@@ -15,4 +15,4 @@
 
 
 ### 🔑 Architecture
-- [RNN 기반 모델 비교](https://github.com/jeongmin1016/NLP_paper_study/blob/main/code/models_.md)
+- [RNN 기반 모델 비교](https://github.com/jeongmin1016/NLP_paper_study/blob/main/note/models_.md)
