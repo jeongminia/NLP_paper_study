@@ -13,6 +13,6 @@
 |05|Attention|[Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473)|2024.07.28|[code]()|[note]( )|
 |06|Transformer|[Attention is All you need](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.28|[code]( )|[note]( )|
 
-
+----
 #### Architecture
 - [RNN 기반 모델 비교](https://github.com/jeongmin1016/NLP_paper_study/blob/main/note/models_.md)
