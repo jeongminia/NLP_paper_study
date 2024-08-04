@@ -12,6 +12,7 @@
 |04|Seq2seq|[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215)|2024.07.21|[code]( )|[note]( )|
 |05|Attention|[Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473)|2024.07.28|[code]()|[note](https://velog.io/@jeongminii/paper-review-Neural-machine-translation-by-jointly-learning-to-align-and-translate)|
 |06|Transformer|[Attention is All you need](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.28|[code]( )|[note]( )|
+|07|Word2Vec|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|2024.07.28|[code](https://github.com/jeongmin1016/Paper_study/blob/main/code/Word2Vec_0804.ipynb)|[note]( )|
 
 ----
 #### Architecture
