@@ -12,7 +12,16 @@
 |04|Seq2seq|[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215)|2024.07.21|[code]( )|[note]( )|
 |05|Attention|[Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473)|2024.07.28|[code]()|[note](https://velog.io/@jeongminii/paper-review-Neural-machine-translation-by-jointly-learning-to-align-and-translate)|
 |06|Transformer|[Attention is All you need](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.28|[code]( )|[note]( )|
-|07|Word2Vec|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|2024.07.28|[code](https://github.com/jeongmin1016/Paper_study/blob/main/code/Word2Vec_0804.ipynb)|[note]( )|
+|07|Word2Vec|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|2024.08.04|[code](https://github.com/jeongmin1016/Paper_study/blob/main/code/Word2Vec_0804.ipynb)|[note]( )|
+|08|GloVe|[]()|2024.08.04|[code]()|[note]( )|
+|09|FastText|[]()|2024.08.11|[code]()|[note]( )|
+|10|ELMo|[]()|2024.08.11|[code]()|[note]( )|
+|11|BERT|[]()|2024.08.18|[code]()|[note]( )|
+|12|GPT|[]()|2024.08.18|[code]()|[note]( )|
+|13|LLaMA|[]()|2024.08.24|[code]()|[note]( )|
+|14|LoRA|[]()|2024.08.24|[code]()|[note]( )|
+
+
 
 ----
 #### Architecture
