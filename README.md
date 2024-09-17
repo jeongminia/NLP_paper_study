@@ -13,16 +13,17 @@
 |05|Attention|[Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473)|2024.07.28|[code]()|[note](https://velog.io/@jeongminii/paper-review-Neural-machine-translation-by-jointly-learning-to-align-and-translate)|
 |06|Transformer|[Attention is All you need](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)|2024.07.28|[code]( )|[note]( )|
 |07|Word2Vec|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)|2024.08.04|[code](https://github.com/jeongmin1016/Paper_study/blob/main/code/Word2Vec_0804.ipynb)|[note]( )|
-|08|GloVe|[]()|2024.08.04|[code]()|[note]( )|
-|09|FastText|[]()|2024.08.11|[code]()|[note]( )|
-|10|ELMo|[]()|2024.08.11|[code]()|[note]( )|
-|11|BERT|[]()|2024.08.18|[code]()|[note]( )|
-|12|GPT|[]()|2024.08.18|[code]()|[note]( )|
-|13|LLaMA|[]()|2024.08.24|[code]()|[note]( )|
-|14|LoRA|[]()|2024.08.24|[code]()|[note]( )|
-|15|BART|[]()|2024.09.14|[code]()|[note]( )|
-|16|GNN|[]()|2024.09.14|[code]()|[note]( )|
-
+|08|GloVe|[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)|2024.08.04|[code]()|[note]( )|
+|09|FastText|[Enriching Word Vectors with Subword Information](https://aclanthology.org/Q17-1010.pdf)|2024.08.11|[code]()|[note]( )|
+|10|ELMo|[Deep contextualized word representations](https://arxiv.org/pdf/1802.05365)|2024.08.11|[code]()|[note]( )|
+|11|BERT|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)|2024.08.18|[code]()|[note]( )|
+|12|GPT-3|[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165)|2024.08.18|[code]()|[note]( )|
+|13|LLaMA|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1)|2024.08.24|[code]()|[note]( )|
+|14|LoRA|[LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2106.09685)|2024.08.24|[code]()|[note]( )|
+|15|BART|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461)|2024.09.14|[code]()|[note]( )|
+|16|GNN|[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596)|2024.09.14|[code]()|[note]( )|
+|17|T5|[]()|2024.09.22|[code]()|[note]( )|
+|18|Time Series Transformer|[]()|2024.09.22|[code]()|[note]( )|
 
 ----
 #### Architecture
