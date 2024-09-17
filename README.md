@@ -20,7 +20,7 @@
 |12|GPT-3|[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165)|2024.08.18|[code]()|[note]( )|
 |13|LLaMA|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1)|2024.08.24|[code]()|[note]( )|
 |14|LoRA|[LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2106.09685)|2024.08.24|[code]()|[note]( )|
-|15|BART|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461)|2024.09.14|[code]()|[note]( )|
+|15|BART|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461)|2024.09.14|[code](https://github.com/jeongminia/NLP_paper_study/blob/main/code/BART_0914.ipynb)|[note]( )|
 |16|GNN|[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596)|2024.09.14|[code]()|[note]( )|
 |17|T5|[]()|2024.09.22|[code]()|[note]( )|
 |18|Time Series Transformer|[]()|2024.09.22|[code]()|[note]( )|
