@@ -23,7 +23,7 @@
 |15|BART|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461)|2024.09.14|[code](https://github.com/jeongminia/NLP_paper_study/blob/main/code/BART_0914.ipynb)|[note]( )|
 |16|GNN|[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596)|2024.09.14|[code]()|[note]( )|
 |17|T5|[]()|2024.09.22|[code]()|[note]( )|
-|18|Time Series Transformer|[]()|2024.09.22|[code]()|[note]( )|
+|18|Time Series Transformer|[Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/pdf/2205.13504)|2024.09.22|[code]()|[note]( )|
 
 ----
 #### Architecture
