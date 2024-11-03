@@ -1,4 +1,4 @@
-# Time Series Transformer ⭐
+# Time Series Transformer
 
 ---
 
