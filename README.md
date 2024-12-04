@@ -1,4 +1,4 @@
-# NLP_paper_study
+# [NLP_paper_study](https://sxxwings.notion.site/02a65da5944e4a62b4bc9460fc790917)
 - 일정 : 2024.07.08 ~ 
 - 매주 일요일 오전 10시
 - 논문 리딩 후 해당 모델 부분 코드 리뷰 후 업로드
